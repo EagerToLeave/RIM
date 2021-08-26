@@ -1,0 +1,25 @@
+server:
+  port: 8081
+
+netty:
+  ip: 127.0.0.1
+  port: 7397
+
+spring:
+  ## 数据库配置
+  datasource:
+    url: jdbc:mysql://localhost:3306/itstack?serverTimezone=UTC&useSSL=false&useUnicode=true&characterEncoding=UTF-8
+    username: root
+    password: root
+
+  ## 页面配置
+  mvc:
+    view:
+      prefix: /
+      suffix: .html
+
+mybatis:
+  mapper-locations: classpath:/mybatis/mapper/*.xml
+  config-location:  classpath:/mybatis/config/mybatis-config.xml
+
+

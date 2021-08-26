@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="itstack-naive-chat-server-ddd:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/itstack_naive_chat_server_ddd_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="itstack-naive-chat-server-ddd/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="itstack-naive-chat-server-ddd" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

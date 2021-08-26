@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ab101073-9732-472e-81a7-a8a7ed760965" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-agreement/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-agreement/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-agreement/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/chat/server/js/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/chat/server/server.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/chat/user/css/user.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/chat/user/img/01_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/chat/user/img/02_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/chat/user/img/03_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/chat/user/img/04_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/chat/user/img/05_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/chat/user/img/06_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/chat/user/img/07_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/chat/user/img/08_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/chat/user/img/09_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/chat/user/img/10_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/chat/user/img/11_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/chat/user/img/12_50.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/chat/user/js/user.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/chat/user/user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/api/clear.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/api/init.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/api/menus.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/api/table.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/api/tableSelect.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/api/upload.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/css/layuimini.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/css/official-evaluation/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/css/public.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/images/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/images/captcha.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/js/lay-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/js/lay-module/echarts/echarts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/js/lay-module/echarts/echartsTheme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/js/lay-module/iconPicker/iconPickerFa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/js/lay-module/layuimini/layuimini.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/js/lay-module/step-lay/step.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/js/lay-module/step-lay/step.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/js/lay-module/tableSelect/tableSelect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/js/lay-module/treetable-lay/treetable.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/js/lay-module/treetable-lay/treetable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/js/lay-module/wangEditor/fonts/w-e-icon.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/js/lay-module/wangEditor/wangEditor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/js/lay-module/wangEditor/wangEditor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/js/lay-module/wangEditor/wangEditor.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/js/lay-module/wangEditor/wangEditor.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/js/lay-module/wangEditor/wangEditor.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/js/lay-module/xmSelect/xmSelect.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/js/official-evaluation/components/image-list.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/js/official-evaluation/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/js/official-evaluation/filter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/js/official-evaluation/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/js/official-evaluation/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/axios/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/HELP-US-OUT.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/css/font-awesome.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/css/font-awesome.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/fonts/FontAwesome.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/less/animated.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/less/bordered-pulled.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/less/core.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/less/fixed-width.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/less/font-awesome.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/less/icons.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/less/larger.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/less/list.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/less/mixins.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/less/path.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/less/rotated-flipped.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/less/screen-reader.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/less/stacked.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/less/variables.less" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/scss/_animated.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/scss/_bordered-pulled.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/scss/_core.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/scss/_fixed-width.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/scss/_icons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/scss/_larger.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/scss/_list.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/scss/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/scss/_path.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/scss/_rotated-flipped.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/scss/_screen-reader.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/scss/_stacked.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/scss/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/font-awesome-4.7.0/scss/font-awesome.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/jq-module/jquery.particleground.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/jq-module/paigusu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/jq-module/zyupload/zyupload-1.0.0.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/jq-module/zyupload/zyupload-1.0.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/jquery-3.4.1/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/css/layui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/css/layui.mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/css/modules/code.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/css/modules/laydate/default/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/css/modules/layer/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/css/modules/layer/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/css/modules/layer/default/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/css/modules/layer/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/css/modules/layer/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/css/modules/layer/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/font/iconfont.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/40.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/42.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/44.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/45.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/47.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/53.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/54.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/55.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/57.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/58.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/59.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/60.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/61.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/62.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/63.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/65.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/66.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/67.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/68.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/69.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/70.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/71.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/images/face/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/lay/modules/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/lay/modules/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/lay/modules/colorpicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/lay/modules/element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/lay/modules/flow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/lay/modules/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/lay/modules/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/lay/modules/laydate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/lay/modules/layedit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/lay/modules/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/lay/modules/laypage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/lay/modules/laytpl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/lay/modules/mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/lay/modules/rate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/lay/modules/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/lay/modules/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/lay/modules/transfer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/lay/modules/tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/lay/modules/upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/lay/modules/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/layui.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/layui-v2.5.4/layui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/lib/vue/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/page/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/page/button.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/page/color-select.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/page/editor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/page/form-step.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/page/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/page/icon-picker.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/page/icon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/page/layer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/page/login-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/page/login-2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/page/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/page/official-evaluation.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/page/setting.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/page/table-select.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/page/upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/page/user-password.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/page/user-setting.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/page/welcome-1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res/page/welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/META-INF/resources/res_layui.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/mybatis/config/mybatis-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/mybatis/mapper/ChatRecord_Mapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/mybatis/mapper/Groups_Mapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/mybatis/mapper/TalkBox_Mapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/mybatis/mapper/UserFriend_Mapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/mybatis/mapper/UserGroup_Mapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/mybatis/mapper/User_Mapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/spring-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/classes/spring/spring-config-service.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../itstack-naive-chat-ui/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../itstack-naive-chat-ui/target/surefire-reports/TEST-org.itstack.navice.test.ApiTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../itstack-naive-chat-ui/target/surefire-reports/org.itstack.navice.test.ApiTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itstack-naive-chat-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../itstack-naive-chat-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itstack-naive-chat-client/src/main/java/org/itstack/naive/chat/client/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../itstack-naive-chat-client/src/main/java/org/itstack/naive/chat/client/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itstack-naive-chat-client/src/main/java/org/itstack/naive/chat/client/event/LoginEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../itstack-naive-chat-client/src/main/java/org/itstack/naive/chat/client/event/LoginEvent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itstack-naive-chat-client/src/main/java/org/itstack/naive/chat/client/socket/MyBizHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../itstack-naive-chat-client/src/main/java/org/itstack/naive/chat/client/socket/MyBizHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itstack-naive-chat-client/src/main/java/org/itstack/naive/chat/client/socket/MyChannelInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../itstack-naive-chat-client/src/main/java/org/itstack/naive/chat/client/socket/MyChannelInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itstack-naive-chat-client/src/main/java/org/itstack/naive/chat/client/socket/NettyClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../itstack-naive-chat-client/src/main/java/org/itstack/naive/chat/client/socket/NettyClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itstack-naive-chat-client/src/main/java/org/itstack/naive/chat/client/socket/handler/LoginHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../itstack-naive-chat-client/src/main/java/org/itstack/naive/chat/client/socket/handler/LoginHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itstack-naive-chat-client/src/main/java/org/itstack/naive/chat/client/socket/handler/MsgGroupHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../itstack-naive-chat-client/src/main/java/org/itstack/naive/chat/client/socket/handler/MsgGroupHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itstack-naive-chat-client/src/main/java/org/itstack/naive/chat/client/socket/handler/MsgHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../itstack-naive-chat-client/src/main/java/org/itstack/naive/chat/client/socket/handler/MsgHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itstack-naive-chat-client/src/main/java/org/itstack/naive/chat/client/socket/handler/SearchFriendHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../itstack-naive-chat-client/src/main/java/org/itstack/naive/chat/client/socket/handler/SearchFriendHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itstack-naive-chat-client/src/main/java/org/itstack/naive/chat/client/socket/handler/TalkNoticeHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/../itstack-naive-chat-client/src/main/java/org/itstack/naive/chat/client/socket/handler/TalkNoticeHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itstack-naive-chat-server-agreement/src/main/java/org/itstack/naive/chat/util/SerializationUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/itstack-naive-chat-server-agreement/src/main/java/org/itstack/naive/chat/util/SerializationUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/domain/user/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/domain/user/service/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/infrastructure/common/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/infrastructure/common/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/infrastructure/common/SocketChannelUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/infrastructure/common/SocketChannelUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/infrastructure/dao/IGroupsDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/infrastructure/dao/IGroupsDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/infrastructure/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/infrastructure/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/interfaces/InetController.java" beforeDir="false" afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/interfaces/InetController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/socket/MyBizHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/socket/MyBizHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/socket/MyChannelInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/socket/MyChannelInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/socket/NettyServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/socket/NettyServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/socket/handler/AddFriendHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/socket/handler/AddFriendHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/socket/handler/DelTalkHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/socket/handler/DelTalkHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/socket/handler/LoginHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/socket/handler/LoginHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/socket/handler/MsgGroupHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/socket/handler/MsgGroupHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/socket/handler/MsgHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/socket/handler/MsgHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/socket/handler/ReconnectHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/socket/handler/ReconnectHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/socket/handler/SearchFriendHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/socket/handler/SearchFriendHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/socket/handler/TalkNoticeHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/java/org/itstack/naive/chat/socket/handler/TalkNoticeHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/resources/mybatis/mapper/Groups_Mapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/itstack-naive-chat-server-ddd/src/main/resources/mybatis/mapper/Groups_Mapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itstack-naive-chat-ui/src/main/java/org/itstack/naive/chat/ui/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../itstack-naive-chat-ui/src/main/java/org/itstack/naive/chat/ui/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../itstack.sql/itstack.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../itstack.sql/itstack.sql" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JRebelWorkspace">
+    <option name="jrebelEnabledAutocompile" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\env\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../../env/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\env\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1x7P4Roda9DNAqKTWZt1hEaYjxa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.obroom.plugin.mybatislog.navigate" value="1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../itstack-naive-chat-ui" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2943361" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ChatServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="itstack-naive-chat-server-ddd" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.itstack.naive.chat.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SHORTEN_COMMAND_LINE" value="NONE" />
+      <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ab101073-9732-472e-81a7-a8a7ed760965" name="Default Changelist" comment="" />
+      <created>1629702963270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629702963270</updated>
+      <workItem from="1629702965420" duration="7310000" />
+      <workItem from="1629712778207" duration="78000" />
+      <workItem from="1629712911418" duration="4417000" />
+      <workItem from="1629767856035" duration="5080000" />
+      <workItem from="1629774767278" duration="86000" />
+      <workItem from="1629774907968" duration="541000" />
+      <workItem from="1629775494090" duration="345000" />
+      <workItem from="1629792124631" duration="251000" />
+      <workItem from="1629888848338" duration="1213000" />
+      <workItem from="1629945844313" duration="1444000" />
+      <workItem from="1629955061413" duration="242000" />
+      <workItem from="1629955400760" duration="1495000" />
+      <workItem from="1629975269382" duration="175000" />
+      <workItem from="1629975508886" duration="105000" />
+      <workItem from="1629975647678" duration="48000" />
+      <workItem from="1629975727557" duration="41000" />
+      <workItem from="1629975798662" duration="105000" />
+      <workItem from="1629975936264" duration="41000" />
+      <workItem from="1629976010526" duration="50000" />
+      <workItem from="1629976090740" duration="2473000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
